@@ -8,4 +8,4 @@ May update the molecular integrals part afterwards.
 
 In the "Cpp project"
 project3 a HF for water molecule in STO-3G is written following the instructions of Prof. D. Crawford at https://github.com/CrawfordGroup/ProgrammingProjects/tree/master.
-Still calculations of molecular integrals are skipped.
+Still molecular integrals are read from exterior files.
